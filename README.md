@@ -1,54 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hajar Taifi Bernoussi - GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        h1 {
-            color: #0078D7;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .skills {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .skills span {
-            background-color: #0078D7;
-            color: white;
-            padding: 5px 10px;
-            margin: 5px;
-            border-radius: 5px;
-        }
-        a {
-            color: #0078D7;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .quote {
-            font-style: italic;
-            margin-top: 20px;
-            color: #555;
-        }
-    </style>
-</head>
-<body>
-    <h1>👩‍💻 Hajar Taifi Bernoussi</h1>
+
+ <h1>👩‍💻 Hajar Taifi Bernoussi</h1>
     <h2>🌟 Engineering Student | Cybersecurity Innovator | Future Leader</h2>
     <p>📍 <strong>EIDIA, Université Euro-Méditerranéenne de Fès</strong></p>
 
-    <div class="section">
+<div class="section">
         <h2>🚀 About Me</h2>
         <p>Welcome to my corner of the digital world! I am Hajar Taifi Bernoussi, a second-year engineering student driven by an unrelenting passion for <strong>Cybersecurity</strong>, <strong>DevOps</strong>, and <strong>Automation</strong>. My journey is defined by a hunger to master complex systems, secure the digital landscape, and build innovative solutions that make a difference.</p>
         <ul>
@@ -58,7 +13,7 @@
         </ul>
     </div>
 
-    <div class="section">
+<div class="section">
         <h2>🌱 What Sets Me Apart</h2>
         <p>🔐 <strong>Cybersecurity Visionary</strong>: From ethical hacking to digital forensics, I specialize in identifying vulnerabilities and fortifying systems against the unknown.</p>
         <p>💡 <strong>DevOps Architect</strong>: I design and implement seamless pipelines, ensuring that security and efficiency are at the heart of every deployment.</p>
@@ -70,7 +25,7 @@
         </ul>
     </div>
 
-    <div class="section">
+<div class="section">
         <h2>💻 Skills & Expertise</h2>
         <div class="skills">
             <span>Wireshark</span>
@@ -94,12 +49,11 @@
         </div>
     </div>
 
-    <div class="section">
+ <div class="section">
         <h2>📫 Connect with Me</h2>
         <p>🌐 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/hajartaifi/" target="_blank">Hajar Taifi Bernoussi</a></p>
         <p>📧 <strong>Email</strong>: <a href="mailto:hajartaifibernoussi@gmail.com">hajartaifibernoussi@gmail.com</a></p>
     </div>
 
-    <p class="quote">💬 “The biggest risk is not taking any risk.”</p>
-</body>
-</html>
+ <p class="quote">💬 “The biggest risk is not taking any risk.”</p>
+
