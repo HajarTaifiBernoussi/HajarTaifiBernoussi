@@ -1,49 +1,105 @@
-<h1 align="center">Hi 👋, I'm Hajar Taifi Bernoussi</h1>
-<h3 align="center">a 1st-year Cybersecurity student at the Euro-Mediterranean University of Fez (UEMF), enrolled in the Engineering program at the School of Digital Engineering and Artificial Intelligence (EIDIA)</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hajar Taifi Bernoussi - GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        h1 {
+            color: #0078D7;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .skills span {
+            background-color: #0078D7;
+            color: white;
+            padding: 5px 10px;
+            margin: 5px;
+            border-radius: 5px;
+        }
+        a {
+            color: #0078D7;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .quote {
+            font-style: italic;
+            margin-top: 20px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>👩‍💻 Hajar Taifi Bernoussi</h1>
+    <h2>🌟 Engineering Student | Cybersecurity Innovator | Future Leader</h2>
+    <p>📍 <strong>EIDIA, Université Euro-Méditerranéenne de Fès</strong></p>
 
-## Find me
+    <div class="section">
+        <h2>🚀 About Me</h2>
+        <p>Welcome to my corner of the digital world! I am Hajar Taifi Bernoussi, a second-year engineering student driven by an unrelenting passion for <strong>Cybersecurity</strong>, <strong>DevOps</strong>, and <strong>Automation</strong>. My journey is defined by a hunger to master complex systems, secure the digital landscape, and build innovative solutions that make a difference.</p>
+        <ul>
+            <li><strong>Strategic Thinker</strong>: I don’t just solve problems—I anticipate them. Whether it’s building secure systems or automating workflows, I bring a unique blend of foresight and execution.</li>
+            <li><strong>Bold Innovator</strong>: I embrace challenges that others shy away from, thriving in high-pressure environments where creativity meets precision.</li>
+            <li><strong>Relentless Learner</strong>: The tech world evolves fast, and I evolve faster. From mastering new tools to exploring uncharted territories, I’m always a step ahead.</li>
+        </ul>
+    </div>
 
-[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/JulesUSG15)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/hajar-taifi-bernoussi-9409302a4/)
+    <div class="section">
+        <h2>🌱 What Sets Me Apart</h2>
+        <p>🔐 <strong>Cybersecurity Visionary</strong>: From ethical hacking to digital forensics, I specialize in identifying vulnerabilities and fortifying systems against the unknown.</p>
+        <p>💡 <strong>DevOps Architect</strong>: I design and implement seamless pipelines, ensuring that security and efficiency are at the heart of every deployment.</p>
+        <p>🎓 <strong>Trailblazer in Learning</strong>:</p>
+        <ul>
+            <li>Building resilient systems using advanced security tools and techniques.</li>
+            <li>Mastering CI/CD pipelines with a security-first approach.</li>
+            <li>Diving deep into the intersection of forensics and anti-forensics.</li>
+        </ul>
+    </div>
 
-- 📫 Contact me at **hajar.taifibernoussi@eidia.ueuromed.org**
+    <div class="section">
+        <h2>💻 Skills & Expertise</h2>
+        <div class="skills">
+            <span>Wireshark</span>
+            <span>Nmap</span>
+            <span>Burp Suite</span>
+            <span>OWASP ZAP</span>
+            <span>Jenkins</span>
+            <span>Ansible</span>
+            <span>Docker</span>
+            <span>Kubernetes</span>
+            <span>Metasploit</span>
+            <span>ExifTool</span>
+            <span>Python</span>
+            <span>Java</span>
+            <span>JavaScript</span>
+            <span>PHP</span>
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>Linux</span>
+            <span>Windows</span>
+        </div>
+    </div>
 
-## A few statistics 
+    <div class="section">
+        <h2>📫 Connect with Me</h2>
+        <p>🌐 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/hajartaifi/" target="_blank">Hajar Taifi Bernoussi</a></p>
+        <p>📧 <strong>Email</strong>: <a href="mailto:hajartaifibernoussi@gmail.com">hajartaifibernoussi@gmail.com</a></p>
+    </div>
 
-<div align="center">
-
-<a href="https://github.com/HajarTaifiBernoussi/Stats#gh-dark-mode-only">
-<img src="https://github.com/HajarTaifiBernoussi/Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/HajarTaifiBernoussi/Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/HajarTaifiBernoussi/Stats#gh-light-mode-only">
-<img src="https://github.com/HajarTaifiBernoussi/Stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-<img src="https://github.com/HajarTaifiBernoussi/Stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-</a>
-
-</div>
-
-## Languages & tools
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-## Apprenticeship / upgrading
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+    <p class="quote">💬 “The biggest risk is not taking any risk.”</p>
+</body>
+</html>
