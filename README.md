@@ -51,7 +51,7 @@
 
  <div class="section">
         <h2>📫 Connect with Me</h2>
-        <p>🌐 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/hajartaifi/" target="_blank">Hajar Taifi Bernoussi</a></p>
+        <p>🌐 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/hajar-taifi-bernoussisi/" target="_blank">Hajar Taifi Bernoussi</a></p>
         <p>📧 <strong>Email</strong>: <a href="mailto:hajartaifibernoussi@gmail.com">hajartaifibernoussi@gmail.com</a></p>
     </div>
 
